@@ -1,0 +1,21 @@
+{
+    "hoteles" : [
+      {
+        "id": "1",
+        "image": {
+        "src": "Github/Img/grandeHotel.jpg",
+        "hOffset": 250,
+        "vOffset": 250
+        },
+        "nombre": "Plaza Grande Hotel", 
+        "descripcion": "Hotel 5 estrellas",
+        "calle": "Av. García Moreno y Chile (esquina)",
+        "ciudad": "Pichincha",
+        "latitude": -0.2195651,
+        "longitude": -78.51210950000001
+
+    }
+        
+      
+    ]
+  }
